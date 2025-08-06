@@ -1,10 +1,6 @@
 ## Hi, I'm Apia Okorafor 🙋🏿‍♂️
 
-🇳🇬 Nigerian-American<br/>
-🥇 I do VEX Robotics<br/>
-🤖 Robotics Enthusiast<br/>
-🧠 AI and Control Theory Researcher<br/>
-🤘🏿 Computer Science Student at the University of Texas at Austin<br/>
+Hello! I’m Apia Okorafor, a first-year student at the University of Texas at Austin, double majoring in Computer Science and Math with dual minors in Robotics and Economics. I’m passionate about exploring the intersection of computer science and robotics through math and physics, driving technological innovation in software engineering, robotics, and AI for the betterment of society. 🤘🏿 <br/>
 
 
 # 💻 Tech Stack:
@@ -15,7 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Djninja926&theme=transparent&hide_border=false&include_all_commits=false&count_private=true&layout=compact)<br/>
 ![](https://github-contributor-stats.vercel.app/api?username=Djninja926&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
----
 [![](https://visitcount.itsvg.in/api?id=Djninja926&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
