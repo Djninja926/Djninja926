@@ -1,6 +1,6 @@
 ## Hi, I'm Apia Okorafor 🙋🏿‍♂️
 
-Hello! I’m Apia Okorafor, a first-year student at the University of Texas at Austin, double majoring in Computer Science and Math with dual minors in Robotics and Economics. I’m passionate about exploring the intersection of computer science and robotics through math and physics, driving technological innovation in software engineering, robotics, and AI for the betterment of society. 🤘🏿 <br/>
+Hello! I’m Apia Okorafor, a first-year student at the University of Texas at Austin, double-majoring in Computer Science and Mathematics. I'm focused on Applied Machine Learning and ML Systems, with a particular interest in GPU computing, low-latency inference, and the intersection of Systems Engineering and AI. On the research side, I'm drawn to both problems of Systems for ML and ML for Systems, and I'm actively contributing to that space. I care about building things people actually use, and I'm especially excited by work that connects performance-critical systems to real-world impact. 🤘🏿 <br/>
 
 
 # 💻 Tech Stack:
