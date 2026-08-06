@@ -9,7 +9,7 @@ I'm a first-year student at the University of Texas at Austin, double-majoring i
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Djninja926&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Djninja926&theme=shadow_blue&hide_border=false)<br/>
+![](https://streak-stats.demolab.com/?user=Djninja926&theme=shadow_blue&hide_border=false&v=1)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Djninja926&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
